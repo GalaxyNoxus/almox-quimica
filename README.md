@@ -1,7 +1,7 @@
 # Controle do Almoxarifado de Química
 
-Sistema web desenvolvido para auxiliar no controle do **Almoxarifado do
-Laboratório de Ensino Química da Universidade de Santa Cruz do Sul (UNISC)**.
+Sistema web criado como projeto acaêmico para auxiliar no controle do 
+**Almoxarifado do Laboratório de Ensino Química da Universidade de Santa Cruz do Sul (UNISC)**.
 
 ## Objetivo
 
