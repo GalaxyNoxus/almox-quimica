@@ -1,12 +1,12 @@
 # Controle do Almoxarifado de Química
 
-Sistema web desenvolvido para auxiliar no controle do **Almoxarifado de
-Química da Universidade de Santa Cruz do Sul (UNISC)**.
+Sistema web desenvolvido para auxiliar no controle do **Almoxarifado do
+Laboratório de Ensino Química da Universidade de Santa Cruz do Sul (UNISC)**.
 
 ## Objetivo
 
 O objetivo do software é facilitar a organização e o controle dos
-reagentes químicos do almoxarifado da UNISC, centralizando em uma única
+reagentes químicos do almoxarifado, centralizando em uma única
 aplicação o cadastro dos frascos, a consulta do estoque e o registro das
 movimentações.
 
@@ -111,15 +111,3 @@ Não é necessário instalar dependências.
   `Alt + K`   Cadastrar novo frasco
   `Alt + H`   Histórico
   `Alt + P`   Relatórios
-
-## Estrutura
-
-``` text
-almoxarifado/
-├── almoxarifado.html
-└── README.md
-```
-
-## Versão
-
-**1.0.4**
